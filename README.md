@@ -1,2 +1,2 @@
 # devops_zhaw
-Dies ist ein Test -Amar
+Dies ist ein Test -Amar Redzepi
